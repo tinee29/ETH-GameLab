@@ -1,0 +1,301 @@
+{
+  "Rooms": [
+    {
+      "Id": "corr9",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr10",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": false,
+        "west": true,
+        "north": false,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr11",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": false,
+        "west": true,
+        "north": false,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "corr12",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": false,
+        "west": true,
+        "north": false,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr13",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr14",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": false,
+        "west": true,
+        "north": false,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr15",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr16",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "corr17",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": false,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  ]
+}

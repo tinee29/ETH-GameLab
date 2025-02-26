@@ -1,0 +1,1423 @@
+{
+  "Rooms": [
+    {
+      "Id": "room1",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room2",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room3",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room4",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room5",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room6",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room7",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": false,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room8",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room9",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room10",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room11",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": false,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room12",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room13",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room14",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room15",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room16",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room17",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room18",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room19",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room20",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room21",
+      "Active": false,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room22",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room23",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room24",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": false
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room25",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          true,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room26",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room27",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room28",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room29",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "room30",
+      "Active": true,
+      "Mirror": false,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "room31",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "room32",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room33",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room34",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room35",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          true,
+          false,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room36",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room37",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          true,
+          false,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room38",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "room39",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "room40",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          false,
+          true
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          false,
+          true
+        ],
+        "east": [
+          false,
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "Id": "room41",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room42",
+      "Active": false,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          false,
+          true,
+          false
+        ],
+        "west": [
+          false,
+          false,
+          true
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    },
+    {
+      "Id": "room43",
+      "Active": true,
+      "Mirror": true,
+      "Doors": {
+        "south": true,
+        "west": true,
+        "north": true,
+        "east": true
+      },
+      "Location": {
+        "south": [
+          true,
+          false,
+          false
+        ],
+        "west": [
+          true,
+          false,
+          false
+        ],
+        "north": [
+          false,
+          true,
+          false
+        ],
+        "east": [
+          false,
+          true,
+          false
+        ]
+      }
+    }
+  ]
+}
